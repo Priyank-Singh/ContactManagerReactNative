@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Contact_Manager",
+    "slug": "Contact_Manager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Contact_Manager"
+}
